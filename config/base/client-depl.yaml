@@ -29,7 +29,7 @@ spec:
         app: cat-client        
     spec:
       containers:
-      - image: quay.io/wpernath/grumpycat-melonjs:latest
+      - image: quay.io/rbrhssa/grumpycat-melonjs:latest
         imagePullPolicy: Always
         name: cat-client
         envFrom:
