@@ -30,7 +30,7 @@ spec:
         app: cat-server        
     spec:
       containers:
-      - image: quay.io/wpernath/quarkus-grumpycat:latest
+      - image: quay.io/rbrhssa/quarkus-grumpycat:latest
         imagePullPolicy: Always
         name: cat-server
         envFrom:
