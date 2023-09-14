@@ -7,7 +7,7 @@ resources:
 namespace: cat-dev
 
 images:
-- digest: sha256:f1a93fd5e0b28b102acc66c0b229c846ef799dd7f0f172c092a52fad8f6cf5ff
+- digest: sha256:b0ca2dad9ae877dc008e75db6f88a5be2db02fea0a0f81919ef83b28654c436a
   name: quay.io/rbrhssa/quarkus-grumpycat:latest
   newName: quay.io/rbrhssa/quarkus-grumpycat:latest
 
